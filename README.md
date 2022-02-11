@@ -10,4 +10,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/f01d8fd3-b9a3-45ba-a58c-21d0b340ba36.svg)](https://wakatime.com/@f01d8fd3-b9a3-45ba-a58c-21d0b340ba36)
 
+[![wakatime](https://wakatime.com/badge/user/f01d8fd3-b9a3-45ba-a58c-21d0b340ba36.svg)](https://wakatime.com/@f01d8fd3-b9a3-45ba-a58c-21d0b340ba36)
+
 
