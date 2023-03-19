@@ -1,6 +1,6 @@
 # <p align="center">Hi :wave:, I'm Khanno.</align>
 
-#### I'm a mobile developer :iphone: who works with Flutter and is studying React Native
+#### I'm a mobile developer :iphone: who works with Flutter and React Native
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanno&layout=compact&langs_count=2)](https://github.com/khanno/github-readme-stats)
 
